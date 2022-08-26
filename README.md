@@ -1,5 +1,5 @@
 
-<img src="https://github.com/NomaanMehmood/NomaanMehmood/blob/1924ef2bf196f8bd31b1a05dfaf0ada45fad7c32/Black%20Yellow%20White%20Green%20Red%20Business%20Digital%20Marketing%20Professional%20Youtube%20Channel%20Art%20Banner.png">
+<img src="https://github.com/NomaanMehmood/NomaanMehmood/blob/758dcb26fa81d73d211d4394973a3ae2565c7c1f/Banner.png">
 <h1 align="center">Hi 👋, I'm Nouman Mehmood</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
