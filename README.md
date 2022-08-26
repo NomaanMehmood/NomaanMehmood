@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nouman Mehmood</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nomaanmehmood&label=Profile%20views&color=0e75b6&style=flat" alt="nomaanmehmood" /> </p>
 
@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **AWS | NFT |Freelance Projects**
 
-- 🤝 I’m looking for help with **Networking with community**
+- 🤝 I’m looking for help with **Networking with community | Remote Job | Freelance Projects**
 
 - 💬 Ask me about **Python**
 
